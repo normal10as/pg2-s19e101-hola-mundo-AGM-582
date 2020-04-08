@@ -1,0 +1,4 @@
+G:\FACULTAD\2°año\Prog2\reposgit\hellomundo\obj\Debug\netcoreapp3.1\hellomundo.vbprojAssemblyReference.cache
+G:\FACULTAD\2°año\Prog2\reposgit\hellomundo\obj\Debug\netcoreapp3.1\hellomundo.vbproj.CoreCompileInputs.cache
+G:\FACULTAD\2°año\Prog2\reposgit\hellomundo\obj\Debug\netcoreapp3.1\hellomundo.AssemblyInfoInputs.cache
+G:\FACULTAD\2°año\Prog2\reposgit\hellomundo\obj\Debug\netcoreapp3.1\hellomundo.AssemblyInfo.vb
